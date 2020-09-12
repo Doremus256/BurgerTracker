@@ -5,3 +5,4 @@ INSERT INTO burgers (burger_name, devoured) VALUES
 , ("Spicy Chicken Burger", false)
 , ("Veggie Burger", false)
 , ("BBQ Burger", false);
+
