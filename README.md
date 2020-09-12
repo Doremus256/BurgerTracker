@@ -10,7 +10,8 @@ GitHub: https://github.com/Doremus256/BurgerTracker
 <br>
 Heroku Link: 
 <br>
-***SEE /video FOLDER FOR WALKTHROUGH VIDEO***
+<br>
+<iframe src="https://drive.google.com/file/d/1bW0GMzoUywjEavqYgzdQ-Ugvmum9ek3z/preview" width="640" height="480">Walkthrough Video</iframe>
 <br>
 <br>
 <br>

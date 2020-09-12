@@ -81,7 +81,7 @@ var orm = {
             cb(result);
         });
     },
-    // DELETE ONE //
+    // DELETE ONE (BONUS!) //
     delete: function (table, condition, cb) {
         var queryString = "DELETE FROM " + table;
         queryString += " WHERE ";
