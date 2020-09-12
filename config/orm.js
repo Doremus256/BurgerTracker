@@ -32,7 +32,6 @@ function objToSql(ob) {
     return arr.toString();
 }
 
-
 // Object containing sql query functions //
 var orm = {
     // SELECT ALL //
